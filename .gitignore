@@ -37,3 +37,8 @@ data/*.json
 
 # PyInstaller
 *.spec
+
+# Large build/archive artifacts (must NOT be tracked)
+study-reminder.zip
+dist.zip
+*.apk
